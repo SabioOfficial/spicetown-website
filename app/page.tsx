@@ -15,7 +15,7 @@ export default function Home() {
           <source media="(prefers-color-scheme: dark)" srcSet="https://i.ibb.co/TMXsSN8b/Group-16.png"></source>
           <img src={`https://i.ibb.co/B5vswjX3/Group-15.png`} alt="Spicetown Logo" width={0} height={0} className="w-auto h-16"></img>
         </picture>
-        <a href="https://github.com/SabioOfficial/spicetown/actions/runs/20462074525/artifacts/4953338284">
+        <a href="https://github.com/SabioOfficial/spicetown/actions/runs/20462768623/artifacts/4953586041">
           <picture>
             <source media="(prefers-color-scheme: light)" srcSet="./github-mark.png"></source>
             <source media="(prefers-color-scheme: dark)" srcSet="./github-mark-white.png"></source>
