@@ -1,6 +1,10 @@
 export default function Home() {
   return (
     <div className="flex h-full flex-col gap-16 items-center justify-center">
+      <p>
+        First and original extension for Flavortown. We were the first extension to be created for Flavortown.
+        Our first devlog was 3 days ahead of Flavortown Util's creation.
+      </p>
       <div className="flex flex-row gap-16">
         <picture>
           <source media="(prefers-color-scheme: light)" srcSet="https://i.ibb.co/yBhBsGyf/Group-11-1.png"></source>
